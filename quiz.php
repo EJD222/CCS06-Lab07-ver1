@@ -70,8 +70,8 @@ try {
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 
-	<style>
-		* {
+    <style>
+        * {
             box-sizing: border-box;
             margin: 0;
             padding: 0;
@@ -83,19 +83,19 @@ try {
         }
 
         .maincontainer {
-			display: flex;
+            display: flex;
             justify-content: center; 
             align-items: center; 
             height: 300vh;
-		}
+        }
 
         .quesandchoices {
-			background-color: #FFFFFF;
-			border-radius: 8px;
-			box-shadow: 0 4px 8px rgba(0, 0, 0, 0.04);
-			padding: 32px;
-			width: 900px;
-		}
+            background-color: #FFFFFF;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.04);
+            padding: 32px;
+            width: 900px;
+        }
         
         .instructions {
             font-size: 16px;
